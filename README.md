@@ -1,16 +1,13 @@
-## Hi there 👋
+class AhsanMiran:
+    def __init__(self):
+        self.name         = "Ahsan Miran"
+        self.university   = "International Islamic University Chittagong (IIUC)"
+        self.degree       = "BSc in Computer Science & Engineering"
+        self.semester     = "5th Semester"
+        self.location     = "Chittagong, Bangladesh"
+        self.focus        = ["Cybersecurity", "Bug Bounty Hunting", "Web Development"]
+        self.learning     = ["Ethical Hacking", "Penetration Testing", "Network Security"]
+        self.hobbies      = ["Debate", "Chess", "Football"]
 
-<!--
-**ahsanmiran20/ahsanmiran20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def current_goal(self):
+        return "Building real-world projects & breaking into Cybersecurity 🔐"
