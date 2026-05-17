@@ -116,18 +116,7 @@ Blog platform built with clean architecture principles and focused on user exper
 
 ---
 
-## ◈ GITHUB STATS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahsanmiran20&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=1d9e75&icon_color=1d9e75&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanmiran20&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=1d9e75&text_color=ffffff" width="38%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanmiran20&hide_border=true&background=0a0a0a&ring=1d9e75&fire=1d9e75&currStreakLabel=1d9e75" width="55%"/>
-
-</div>
-
----
 
 ## ◈ ESTABLISH CONNECTION
 
