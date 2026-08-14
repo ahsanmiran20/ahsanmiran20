@@ -2,9 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1d9e75&height=200&section=header&text=AHSAN%20MIRAN&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Computer%20Engineer%20%7C%20Cybersecurity%20%7C%20Bug%20Bounty%20Hunter&descSize=16&descAlignY=75&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1500&color=1D9E75&center=true&vCenter=true&width=500&lines=%5B+INITIALIZING+PROFILE...+%5D;%5B+LOADING+SKILLS...+%5D;%5B+SCANNING+VULNERABILITIES...+%5D;%5B+ACCESS+GRANTED+%E2%9C%93+%5D)](https://github.com/ahsanmiran20)
-
-</div>
 
 ---
 
