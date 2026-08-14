@@ -10,19 +10,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                   > SYSTEM PROFILE                       ║
-║  --------------------------------------------------------║
-║  NAME       : Ahsan Miran                                ║
-║  ROLE       : CSE Student @ IIUC | 5th Semester          ║
-║  LOCATION   : Chittagong, Bangladesh                     ║
-║  FOCUS      : Cybersecurity · Bug Bounty · Web Dev       ║
-║  STATUS     : Building · Learning · Breaking Things ✓    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
