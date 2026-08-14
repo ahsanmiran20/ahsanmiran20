@@ -15,7 +15,7 @@
 
 ## ◈ WHO AM I
 
-I am a **Computer Science & Engineering student** at International Islamic University Chittagong, currently in my 5th semester. I operate at the intersection of **software development** and **cybersecurity** — building systems by day, learning to break them by night.
+I am a **Computer Science & Engineering student** at International Islamic University Chittagong, currently in my 6th semester. I operate at the intersection of **software development** and **cybersecurity** — building systems by day, learning to break them by night.
 
 My journey started with debate and essay writing, sharpened my analytical thinking, and evolved into a passion for **ethical hacking**, **bug bounty hunting**, and building real-world web applications.
 
