@@ -6,8 +6,6 @@
 ---
 
 
----
-
 ## ◈ WHO AM I
 
 I am a **Computer Science & Engineering student** at International Islamic University Chittagong, currently in my 6th semester. I operate at the intersection of **software development** and **cybersecurity** — building systems by day, learning to break them by night.
